@@ -1,0 +1,58 @@
+h1 {
+   
+    font-weight: bold;
+    font-family:'Segoe UI','Open Sans', 'Helvetica Neue', cursive;
+     color: yellow;
+     font-size: 30px;}
+  #nick{
+      margin-left: 20%;
+  }
+  #navNav{
+      background-color: rgb(0, 153, 255);
+     
+  }
+  #sots{
+     
+      
+  }
+ 
+  #herm{
+      font-size: 20px;
+      font-family: cursive;
+      background-color: yellow;
+  }
+  #phone{
+      color: rgb(5, 5, 5);
+      font-family: cursive;
+      font-size: 20px;
+
+  }
+span{
+    margin-right: 4px;
+}
+#call{
+    background-color:  rgb(229, 255, 0);
+}
+#disc{
+    font-family: cursive;
+}
+#oke
+{
+    font-family: cursive;
+}
+#calk
+{
+    margin: 10px;
+    width: 60%;
+}
+#note{
+    margin: 10px;
+    border: 2px solid black;
+    border-radius: 5%;
+}
+#textArea{
+    width: 100%;
+    height: 100%;
+    font-size: 25px;
+  color: blue;
+}
