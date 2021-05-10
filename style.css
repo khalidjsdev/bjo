@@ -54,5 +54,6 @@ span{
     width: 100%;
     height: 100%;
     font-size: 25px;
-  color: blue;
+   color: rgb(67, 126, 252);
+  background-color: aquamarine;
 }
